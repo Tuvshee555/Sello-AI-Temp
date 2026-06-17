@@ -15,14 +15,14 @@ export const siteConfig = {
     messenger: "https://m.me/SelloAI",
 
     // Phone number shown to users + used in the tel: link
-    phoneDisplay: "+976 8000-0000",
-    phoneHref: "tel:+97680000000",
+    phoneDisplay: "+976 8618 5769",
+    phoneHref: "tel:+97686185769",
 
     // Email address
-    email: "hello@selloai.mn",
+    email: "nexondigitalnova@gmail.com",
 
     // Facebook page URL
-    facebook: "https://facebook.com/SelloAI",
+    facebook: "https://www.facebook.com/SelloAI",
   },
 
   // ── SEO / metadata ───────────────────────────────────────────
